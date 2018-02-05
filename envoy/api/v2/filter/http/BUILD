@@ -76,6 +76,7 @@ proto_library(
         ":fault",
         ":gzip",
         ":health_check",
+        ":ip_tagging",
         ":lua",
         ":rate_limit",
         ":router",

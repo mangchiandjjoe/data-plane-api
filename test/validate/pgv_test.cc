@@ -13,6 +13,7 @@
 #include "envoy/api/v2/filter/http/fault.pb.validate.h"
 #include "envoy/api/v2/filter/http/gzip.pb.validate.h"
 #include "envoy/api/v2/filter/http/health_check.pb.validate.h"
+#include "envoy/api/v2/filter/http/ip_tagging.pb.validate.h"
 #include "envoy/api/v2/filter/http/lua.pb.validate.h"
 #include "envoy/api/v2/filter/http/router.pb.validate.h"
 #include "envoy/api/v2/filter/http/squash.pb.validate.h"
